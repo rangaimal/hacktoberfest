@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [rangaimal](https://github.com/rangaimal)
+- Place: Rathnapura, Sri Lanka
+- Bio: Web developer PHP, mobile developer Ionic
+- Github: [rangaimal](https://github.com/rangaimal)
